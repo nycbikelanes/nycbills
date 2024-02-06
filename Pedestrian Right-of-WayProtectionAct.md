@@ -28,9 +28,9 @@ The purpose of this act is to enhance pedestrian safety, ensure ADA (Americans w
 
    (i) A first offense shall be punishable by a fine not exceeding $500.
    
-   (ii) A second offense within a 12-month period shall be punishable by a fine not exceeding $1000.
+   (ii) A second offense within a 24-month period shall be punishable by a fine not exceeding $1000.
    
-   (iii) Subsequent offenses within a 12-month period shall be punishable by a fine not exceeding $2000.
+   (iii) Subsequent offenses within a 24-month period shall be punishable by a fine not exceeding $2000.
 
 ## Section 6: Exemptions
 
