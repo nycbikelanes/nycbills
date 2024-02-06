@@ -31,6 +31,13 @@ The purpose of this act is to enhance pedestrian safety, ensure ADA (Americans w
    (ii) A second offense within a 24-month period shall be punishable by a fine not exceeding $1000.
    
    (iii) Subsequent offenses within a 24-month period shall be punishable by a fine not exceeding $2000.
+   
+(c) Tow Truck Authorization:
+   
+   (i) Tow truck operators are hereby granted the authority to remove vehicles parked in pedestrian right-of-ways without prior approval, provided they adequately document the vehicle's position and condition, including photographic evidence.
+   
+   (ii) Tow truck operators are entitled to receive 25% of the fine amount levied against the violator as compensation for their towing services, payable only upon receipt of the fine by the relevant authorities.
+   
 
 ## Section 6: Exemptions
 
